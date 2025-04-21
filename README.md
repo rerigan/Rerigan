@@ -1,7 +1,9 @@
-# 👨‍💻 Rerigan
+
+# 👨‍💻 Olá, sou o Rerigan
 **`Desenvolvedor`**
 <p>Adquiri experiência e admiração por computadores fazendo montagem, reparos e formatações em PCs e auxiliando clientes. Estou me graduando em ADS e fazendo cursos complementares para ingressar no mercado de trabalho preparado.
 Tenho certeza que serei de grande ajuda!</p>
+<div>
 <p>
   <h5>
 💻 Portfólio: <a href="https://rerigan.vercel.app">rerigan.vercel.app</a><br>
@@ -11,3 +13,5 @@ Tenho certeza que serei de grande ajuda!</p>
 📧 E-mail: <a href="mailto:cosnnum@gmail.com">cosnnum@gmail.com</a>
   </h5>
 </p>
+
+</div>
