@@ -2,8 +2,12 @@
 # 👨‍💻 Hey, I'm Rerigan!
 **`Developer | Brazilian`**
 
-<p>I format PCs since I was 10, since then I've had a passion for computers and technology. At the moment I'm expanding my knowledge in Development by taking courses and also graduating in Systems Analysis and Development. <br>I've always had an analytic mind, a critical view of things, and I always notice things around me that could be bettered. <br>I always see potential for growth and development even in things people are content with. I like to solve problems and to build stuff, I hope you like what you see! :)</p>
-<p>E-mail: <a href="mailto:cosnnum@gmail.com">cosnnum@gmail.com</a> | Reach me on on Discord: @rerigan</p>
+<p>
+I’ve been passionate about computers and technology since I started formatting PCs at the age of 10. Currently, I’m deepening my skills in development through specialized courses and a degree in Systems Analysis and Development. <br>
+I’ve always had an analytical mindset and a critical eye for improvement, I tend to notice things that can be made better, even when others are content. I see potential for growth everywhere. <br>I enjoy solving problems and building solutions, and I hope you enjoy what you see! :)
+</p>
+
+<p>E-mail: <a href="mailto:cosnnum@gmail.com">cosnnum@gmail.com</a> | Discord: @rerigan</p>
 <div>
 <p>
   <h3>
