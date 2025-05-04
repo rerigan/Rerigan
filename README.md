@@ -3,7 +3,7 @@
 **`Developer | Brazilian`**
 
 <p>
-I’ve been passionate about computers and technology since I started formatting PCs at the age of 10. Currently, I’m deepening my skills in development through specialized courses and a degree in Systems Analysis and Development. <br>
+I started formatting PCs at the age of 10. Currently, I’m deepening my skills in development through specialized courses and a degree in Systems Analysis and Development. <br>
 I’ve always had an analytical mindset and a critical eye for improvement, I tend to notice things that can be made better, even when others are content. I see potential for growth everywhere. <br>I enjoy solving problems and building solutions, and I hope you enjoy what you see! :)
 </p>
 
