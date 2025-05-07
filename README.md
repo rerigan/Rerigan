@@ -15,4 +15,5 @@ I’ve always had an analytical mindset and a critical eye for improvement, I te
   </h3>
 </p>
 <h1><a href="https://rerigan.vercel.app/">Portfolio</a></h1>
+<img src="./preview.png">
 </div>
