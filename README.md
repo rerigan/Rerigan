@@ -14,8 +14,8 @@ I’ve always had an analytical mindset and a critical eye for improvement, I te
 📄<a href="https://tinyurl.com/rericv">Curriculum</a>   👨‍💻<a href="https://www.linkedin.com/in/rerigan">LinkedIn</a>
   </h3>
 </p>
-<h1><a href="https://rerigan.vercel.app/">Portfolio</a></h1>
+<h1 align="center"><a href="https://rerigan.vercel.app/">Portfolio</a></h1>
 
- <img src="preview.png">
+ <a href="https://rerigan.vercel.app"><img src="preview.png"></a>
 
 
