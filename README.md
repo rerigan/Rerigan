@@ -8,11 +8,13 @@ I’ve always had an analytical mindset and a critical eye for improvement, I te
 </p>
 
 <p>E-mail: <a href="mailto:cosnnum@gmail.com">cosnnum@gmail.com</a> | Discord: @rerigan</p>
-<div>
+
 <p>
   <h3>
 📄<a href="https://tinyurl.com/rericv">Curriculum</a>   👨‍💻<a href="https://www.linkedin.com/in/rerigan">LinkedIn</a>
   </h3>
 </p>
 <h1><a href="https://rerigan.vercel.app/">Portfolio</a></h1>
-</div>
+ <img src="preview.png">
+
+
