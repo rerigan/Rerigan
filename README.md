@@ -4,7 +4,7 @@
 
 <p>
 I started formatting PCs at the age of 10. Currently, I’m deepening my skills in development through specialized courses and a degree in Systems Analysis and Development. <br>
-I’ve always had an analytical mindset and a critical eye for improvement, I tend to notice things that can be made better, even when others are content. I see potential for growth everywhere. <br>I enjoy solving problems and building solutions, and I hope you enjoy what you see! :)
+I’ve always had an analytical mindset and a critical eye for improvement, I tend to notice things that can be made better, even when others are content. I see potential for growth everywhere. <br>I enjoy solving problems and building solutions, and I hope you enjoy what you see! :) <br/>Currently learning TypeScript, NodeJS, React, Next, Python and messing with Golang and Java to understand each framework and language's strengths and weaknesses better. More info about my skills on my Resume or LinkedIn below.
 </p>
 
 <p>E-mail: <a href="mailto:cosnnum@gmail.com">cosnnum@gmail.com</a> | Discord: @rerigan</p>
