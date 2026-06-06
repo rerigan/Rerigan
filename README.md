@@ -34,13 +34,15 @@ More details available on my Resume and LinkedIn.
 
 ## 🔗 Links
 
-<h2>
+<h3>
 📄 <a href="https://tinyurl.com/rericv">Resume / Currículo</a>  
 <br>
 💼 <a href="https://www.linkedin.com/in/rerigan">LinkedIn</a>  
 <br>
 🌐 <a href="https://rerigan.xyz">Portfolio</a>
-</h2>
+  <br>
+🔴 <a href="http://reminix.vercel.app/">Reminix</a> - (cool site I made, more info about it on my Resume)
+</h3>
 
 
 ---
