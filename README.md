@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Hey, I'm Rerigan</h1>
+<h1 align="center">👨‍💻 Rerigan</h1>
 
 <p align="center">
   <strong>Developer | Brazilian</strong>
