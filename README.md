@@ -23,8 +23,6 @@ I like to build stuff
 More details available on my Resume and LinkedIn.
 </p>
 
-
-
 ---
 
 ## 🔗 Links
@@ -36,9 +34,6 @@ More details available on my Resume and LinkedIn.
 <br>
 🌐 <a href="https://rerigan.xyz">Portfolio</a>
   <br>
-🔴 <a href="http://reminix.vercel.app/">Reminix</a> - (cool site I made, more info about it on my Resume)
-</h3>
-
 
 ---
 
